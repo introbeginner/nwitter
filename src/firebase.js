@@ -14,6 +14,7 @@ import "firebase/analytics";
     measurementId: "G-RLV5TDSZTY"
   };
   // Initialize Firebase
+  export default firebase.initializeApp(firebaseConfig);
   firebase.analytics();
 
-  export default firebase.initializeApp(firebaseConfig);
+  
