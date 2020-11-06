@@ -3,7 +3,7 @@ import "firebase/analytics";
 
 // Your web app's Firebase configuration
   // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-  var firebaseConfig = {
+  const firebaseConfig = {
     apiKey: "AIzaSyDWwnipH9hT3xOkJkwOTeanKKP2ohdgm2w",
     authDomain: "nwitter-b02e7.firebaseapp.com",
     databaseURL: "https://nwitter-b02e7.firebaseio.com",
