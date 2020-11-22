@@ -2,6 +2,7 @@
   "name": "nwitter",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://introbeginner.github.io/nwitter",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.1",
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
@@ -45,6 +46,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": "https://introbeginner.github.io/nwitter"
+  }
+  
 }
